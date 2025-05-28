@@ -17,16 +17,16 @@ La estructura de carpetas es la siguiente:
 
 ## Requerimientos
 
-- **Python 3.x:** Asegúrate de tener Python 3 instalado.
+- **Python 3.x:** Se recomienda tener Python 3 instalado.
 - **Tkinter:** Viene incluido en la mayoría de las distribuciones estándar de Python.
-- **Visual Studio Code (u otro editor):** Es recomendado para el desarrollo, aunque puedes usar cualquier editor de texto.
+- **Visual Studio Code (u otro editor):** Es recomendado para el desarrollo, aunque se puede usar cualquier editor de texto.
 
 ## Instrucciones para Ejecutar el Juego
 
-1. **Clona o descarga el proyecto** en tu computadora.
-2. **Abre la carpeta del proyecto en Visual Studio Code** (o en el editor de tu preferencia).
-3. **Abre una terminal** (integrada en VS Code o una terminal normal).
-4. **Navega a la carpeta del proyecto** (si no estás ya allí).
+1. **Clonar o descargar el proyecto** en tu computador.
+2. **Abrir la carpeta del proyecto en Visual Studio Code** (o en el editor de preferencia).
+3. **Abrir una terminal** (integrada en VS Code o una terminal normal).
+4. **Navega a la carpeta del proyecto.**
 5. Ejecuta el juego utilizando el siguiente comando:
    ```bash
    python mancala.py
