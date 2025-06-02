@@ -1,23 +1,27 @@
-# Mancala - Interfaz de Juego
+# Mancala - Interfaz de Juego (Versión Kalah)
 
-## Descripción del Proyecto
+## 📌 Descripción del Proyecto
 
-Este proyecto implementa una versión digital del juego de Mancala (variante Kalah) utilizando Python y Tkinter para la interfaz gráfica. La aplicación permite jugar en tres modos:
+Este proyecto implementa una versión digital del juego de Mancala, específicamente bajo la variante **Kalah**, usando **Python** y la biblioteca **Tkinter** para la interfaz gráfica.
 
-- **Humano vs. Humano:** ambos jugadores realizan sus movimientos manualmente.
-- **Humano vs. Sintético:** un jugador humano compite contra un jugador automático (actualmente, el movimiento del jugador sintético es aleatorio, sirviendo como marcador de posición).
-- **Sintético vs. Sintético:** ambos jugadores son controlados de forma automática, permitiendo observar la evolución completa de una partida.
+Se desarrollaron tres modos de juego:
 
-El proyecto se desarrolló siguiendo buenas prácticas de ingeniería de software, separando la lógica del juego de la presentación (interfaz) para facilitar la mantenibilidad y futuras ampliaciones (por ejemplo, la incorporación de un algoritmo más sofisticado para el jugador sintético).
+- 👥 **Humano vs. Humano:** Dos jugadores humanos alternan turnos desde la misma interfaz.
+- 🤖 **Humano vs. Sintético:** Un jugador humano compite contra un jugador automático (actualmente aleatorio).
+- 🤖🤖 **Sintético vs. Sintético:** Ambos jugadores son controlados automáticamente, ideal para visualizar la evolución del juego.
 
-## Estructura del Proyecto
+El diseño sigue principios de **programación orientada a objetos** y **arquitectura modular**, separando la lógica del juego de la presentación visual para facilitar mejoras futuras.
+
+---
+
+## 📁 Estructura del Proyecto
 
 La estructura de carpetas es la siguiente:
 
 
 ## Requerimientos
 
-- **Python 3.x:** Se recomienda tener Python 3 instalado.
+- **Python 3.7:** Se recomienda tener Python 3 instalado.
 - **Tkinter:** Viene incluido en la mayoría de las distribuciones estándar de Python.
 - **Visual Studio Code (u otro editor):** Es recomendado para el desarrollo, aunque se puede usar cualquier editor de texto.
 
